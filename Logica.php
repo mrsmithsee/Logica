@@ -1,4 +1,4 @@
-<? php
+<?php
 
 // Camel case
 $idadeDaAna = 23;
